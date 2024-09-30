@@ -9,5 +9,4 @@ public class MoviePayload {
     private String movieTheatre; // = "NexusMall"
     private String movieName;
     private int seats;
-    private String offerCode;
 }

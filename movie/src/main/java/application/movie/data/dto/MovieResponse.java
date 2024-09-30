@@ -14,6 +14,6 @@ public class MovieResponse {
     private String movieTheatre; // = "NexusMall"
     private String movieName;
     private int seats;
-    private String offerCode;
     private double price;
+    private String movieReferenceId;
 }
